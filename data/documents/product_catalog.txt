@@ -1,0 +1,22 @@
+Product Catalog
+
+Laptop Pro X1
+A lightweight laptop featuring 16GB RAM, 512GB SSD storage, and a 14-inch display. Suitable for students and professionals.
+
+Wireless Mouse M2
+Ergonomic wireless mouse with adjustable DPI settings and rechargeable battery.
+
+Mechanical Keyboard K5
+RGB mechanical keyboard with customizable lighting and tactile switches designed for gaming and productivity.
+
+Noise Cancelling Headphones H7
+Premium over-ear headphones with active noise cancellation and 30-hour battery life.
+
+Smartwatch S3
+Fitness tracking smartwatch with heart rate monitoring, sleep tracking, GPS support, and water resistance.
+
+USB-C Dock D4
+Multi-port docking station with HDMI, USB-A, USB-C, Ethernet, and SD card connectivity.
+
+Portable SSD P1
+High-speed external SSD with 1TB storage capacity and USB-C support for fast file transfers.
