@@ -1,0 +1,52 @@
+[
+  {
+    "input": "What is the return policy?",
+    "expected_contains": "30",
+    "tool_expected": "search_knowledge_base"
+  },
+  {
+    "input": "How long does shipping take?",
+    "expected_contains": "3-5",
+    "tool_expected": "search_knowledge_base"
+  },
+  {
+    "input": "Track order #1234",
+    "expected_contains": "order",
+    "tool_expected": "check_order_status"
+  },
+  {
+    "input": "Where is my package?",
+    "expected_contains": "order",
+    "tool_expected": "check_order_status"
+  },
+  {
+    "input": "I want a refund",
+    "expected_contains": "return",
+    "tool_expected": "search_knowledge_base"
+  },
+  {
+    "input": "What products do you sell?",
+    "expected_contains": "product",
+    "tool_expected": "search_knowledge_base"
+  },
+  {
+    "input": "Can I return a damaged item?",
+    "expected_contains": "return",
+    "tool_expected": "search_knowledge_base"
+  },
+  {
+    "input": "My order is delayed",
+    "expected_contains": "order",
+    "tool_expected": "check_order_status"
+  },
+  {
+    "input": "I need human support",
+    "expected_contains": "human",
+    "tool_expected": "escalate_to_human"
+  },
+  {
+    "input": "Connect me to an agent",
+    "expected_contains": "human",
+    "tool_expected": "escalate_to_human"
+  }
+]

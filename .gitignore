@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+.venv312/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Build
+dist/
+
+# Logs
+*.log
+
+# Chroma
+chroma_db/
